@@ -19,65 +19,16 @@
     "skylineRenderEnable": true,
     "bigPackageSizeSupport": false
   },
-  "libVersion": "3.8.2",
+  "libVersion": "3.8.10",
   "condition": {
     "miniprogram": {
       "list": [
         {
-          "name": "虚拟看车",
-          "pathName": "pages/car/index",
-          "query": "",
-          "scene": null,
-          "launchMode": "default"
-        },
-        {
-          "name": "裸眼VR",
-          "pathName": "pages/skybox/index",
-          "query": "",
-          "launchMode": "default",
-          "scene": null
-        },
-        {
-          "name": "基本功能",
-          "pathName": "pages/basic/index",
-          "query": "",
-          "launchMode": "default",
-          "scene": null
-        },
-        {
           "name": "物理刚体",
           "pathName": "pages/physics/index",
           "query": "",
-          "launchMode": "default",
-          "scene": null
-        },
-        {
-          "name": "脸部识别",
-          "pathName": "pages/face/index",
-          "query": "",
-          "launchMode": "default",
-          "scene": null
-        },
-        {
-          "name": "躯体识别",
-          "pathName": "pages/body/index",
-          "query": "",
-          "launchMode": "default",
-          "scene": null
-        },
-        {
-          "name": "手势识别",
-          "pathName": "pages/hand/index",
-          "query": "",
-          "launchMode": "default",
-          "scene": null
-        },
-        {
-          "name": "平面追踪",
-          "pathName": "pages/index/index",
-          "query": "",
-          "launchMode": "default",
-          "scene": null
+          "scene": null,
+          "launchMode": "default"
         }
       ]
     }
