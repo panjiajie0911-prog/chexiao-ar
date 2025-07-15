@@ -24,11 +24,16 @@
     "miniprogram": {
       "list": [
         {
-          "name": "物理刚体",
-          "pathName": "pages/physics/index",
           "query": "",
           "scene": null,
           "launchMode": "default"
+        },
+        {
+          "name": "物理刚体",
+          "pathName": "pages/physics/index",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
         }
       ]
     }
