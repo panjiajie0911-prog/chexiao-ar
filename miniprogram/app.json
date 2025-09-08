@@ -1,14 +1,22 @@
 {
   "component": true,
   "lazyCodeLoading": "requiredComponents",
-  "pages": [
-    "pages/hand/index",
+  "miniprogram": {
+    "engineVersion": "2.32.0"
+  },
+  "pages": [  
+    "pages/basic/index",
     "pages/index/index",
+    "pages/hand/index",
     "pages/face/index",
     "pages/body/index",
     "pages/physics/index",
-    "pages/basic/index",
     "pages/skybox/index"
   ],
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+  "permission": {
+    "scope.userLocation": {
+      "desc": "用于AR空间定位"
+    }
+  }
 }
