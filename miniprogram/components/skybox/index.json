@@ -1,4 +1,5 @@
 {
   "component": true,
-  "usingComponents": {},  "renderer": "xr-frame"
+  "usingComponents": {},  
+  "renderer": "xr-frame"
 }

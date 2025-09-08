@@ -42,5 +42,6 @@
 		clear-color="0.1 0.3 0.1 0.1" 
 		target="cube" 
 		position="0 1 4" 
-		camera-orbit-control/>
+		camera-orbit-control 
+		/>
 </xr-scene>
